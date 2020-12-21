@@ -1,3 +1,3 @@
 <h3>Hey there. I'm Amy Scott!</h3>
 
-<img src="http://placegoat.com/200/200">
+<img src="https://github.com/amyscotteng/amyscotteng/blob/main/TKD.jpg">
