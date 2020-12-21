@@ -30,3 +30,5 @@ and each other 👩‍❤️‍👨 . We have a lot in common except for our mus
 <p>Feel free to look around! If you have any questions, feel free to email me!</p>
 
 <img src="https://github.com/amyscotteng/amyscotteng/blob/main/radical.gif" style="max-width: 50%;" alt="jumping radical goat!" title="RADICAL! 🐐">
+
+<p></p>
