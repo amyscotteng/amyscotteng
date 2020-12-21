@@ -19,7 +19,7 @@ and each other 👩‍❤️‍👨 . We have a lot in common except for our mus
   <ul>
     <li><a href="http://placekitten.com/">Placekitten</a> - How can you go wrong with adorable kittens? You can't. 🐱 </li>
     <li><a href="https://github.com/rosshettel/placegoat">Placegoat</a> - Because of course 🐐 </li>
-    <li>Codepen! Check out my profile <a href="https://codepen.io/amyscotteng/">here! I'm adding new things all the time </a></li>
+    <li><a href="https://codepen.io/amyscotteng/">Codepen</a>! I'm adding new things all the time </li>
     <li><a href="https://stackoverflow.com/">Stackoverflow</a> - A great resource for getting coding help aka looking up simple things I forgot how to do 🤪</li>
     <li>Sourdough bread - Of course. I grew up close to San Francisco after all! 🥖 </li>
   </ul>
@@ -31,4 +31,4 @@ and each other 👩‍❤️‍👨 . We have a lot in common except for our mus
 
 <img src="https://github.com/amyscotteng/amyscotteng/blob/main/radical.gif" style="max-width: 50%;" alt="jumping radical goat!" title="RADICAL! 🐐">
 
-<p></p>
+
