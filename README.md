@@ -3,8 +3,9 @@
 <small>Here I am getting my 1st Dan (1st degree) black belt in tae kwon do!</small>
 
 <h3>Hey there. I'm Amy Scott!</h3>
+<p>I grew up in the San Francisco Bay Area 🌉. I also lived in sunny San Diego 🏖️ for two years where I ate a lot of Mexican food.🌯🌮 </p>
 
-<p>When I'm not playing video games or watching history shows (both documentaries and historical dramas), you can find me working on various web development projects. I have a lot of ideas in my head and am checking them off ✔️ one by one. You can see a list of my current projects <a href="https://github.com/amyscotteng?tab=projects">here</a>. I grew up in the San Francisco Bay Area 🌉. I also lived in sunny San Diego 🏖️ for two years where I ate a lot of Mexican food.🌯🌮 </p>
+<p>When I'm not playing video games or watching history shows (both documentaries and historical dramas), you can find me working on various web development projects. I have a lot of ideas in my head and am checking them off ✔️ one by one. You can see a list of my current projects <a href="https://github.com/amyscotteng?tab=projects">here</a>.</p>
 
 <p>I have been doing HTML and CSS for a very long time. There have been a lot of great changes over the years and I've loved them all. Out of all the changes I've seen, frameworks have been my favorite. Although I LOVE handcoding more than life itself, I am eternally grateful for frameworks like <a href="https://github.com/twbs/bootstrap">Bootstrap</a>. The various libraries that have come out over 
 the years are pretty cool too including <a href="https://github.com/facebook/react">React</a>, <a href="https://github.com/vuejs/vue">Vue</a>, and <a href="https://github.com/angular">
