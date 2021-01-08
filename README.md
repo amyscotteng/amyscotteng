@@ -3,7 +3,7 @@
 <small>Here I am getting my 1st Dan (1st degree) black belt in tae kwon do!</small>
 
 <h3>Hey there. I'm Amy!</h3>
-<p>I grew up in the San Francisco Bay Area 🌉. I also lived in sunny San Diego 🏖️ for two years where I ate a lot of Mexican food.🌯🌮 </p>
+<p>I grew up in the San Francisco Bay Area. I also lived in sunny San Diego for two years where I ate a lot of Mexican food.</p>
 
 <p>When I'm not playing video games or watching history shows (both documentaries and historical dramas), you can find me working on various web development projects. I have a lot of ideas in my head and am checking them off ✔️ one by one. You can see a list of my current projects <a href="https://github.com/amyscotteng?tab=projects">here</a>.</p>
 
