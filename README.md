@@ -17,8 +17,8 @@
   <ul>
     <li><a href="http://placekitten.com/">Placekitten</a> - How can you go wrong with adorable kittens? You can't.  </li>
     <li><a href="https://github.com/rosshettel/placegoat">Placegoat</a> - Because of course  </li>
-    <li><a href="https://codepen.io/amyscotteng/">Codepen</a> - I'm adding new things all the time </li>
-    <li><a href="https://stackoverflow.com/">Stackoverflow</a> - A great resource for getting coding help aka looking up simple things I forgot how to do 🤪</li>
+    <li><a href="https://codepen.io/amyscotteng/">Codepen</a> - I'm adding new things all the time in an effort to help others </li>
+    <li><a href="https://stackoverflow.com/">Stackoverflow</a> - A great resource for getting coding help </li>
     <li><a href="https://www.npmjs.com/package/live-server">LiveServer</a> - Great for testing web dev projects locally!  </li>
     <li>Sourdough bread - I grew up close to San Francisco after all, home to the best sourdough bread in the world. </li>
   </ul>
