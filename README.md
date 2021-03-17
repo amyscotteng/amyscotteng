@@ -11,7 +11,9 @@
 
 </p>
 
-<p>I currently live in Portland, OR 🌲 with my husband, Nate, who is a Senior Desktop technician for a Fortune 100 company. I enjoy having a spouse who is in a techincal field and we have a great time building computers together. Like many, I have been binging a lot of shows on Netflix during the pandemic. So far I have finished Knightfall, The Last Kingdom, Umbrella Academy and I am working on The Crown. I'm a really big fan of historical dramas and series based on books. I watch a lot of documentaries, too. I find them fascinating. </p></p>
+<p>I currently live in Portland, OR 🌲 with my husband, Nate, who is a Senior Desktop technician for a Fortune 100 company. I enjoy having a spouse who is in a techincal field and we have a great time building computers together. </p>
+
+<p>Like many, I have been binging a lot of shows on Netflix during the pandemic. So far I have finished Knightfall, The Last Kingdom, Umbrella Academy and I am working on The Crown. I'm a really big fan of historical dramas and series based on books. I watch a lot of documentaries, too. I find them fascinating. </p>
 
 <p>I'm a big fan of:
   <ul>
